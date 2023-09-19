@@ -1,0 +1,38 @@
+$colors: (
+  common: (
+    white: #ffffff,
+    black: #000000,
+    black-soft: linear-gradient(135deg, #010203, #014122, #010203),
+    black-2: #141515,
+  ),
+  heading: (
+    primary: #141515,
+  ),
+  grey: (
+    1: #eceff4,
+    2: #f7f7f9,
+    3: #a4a6aa,
+    4: #c4c4c4,
+    5: #a0a2a4,
+  ),
+  purpule: (
+    1: #7644ff,
+    2: #a584ff,
+  ),
+  blue: (
+    1: #023725,
+  ),
+  text: (
+    body: #777b83,
+    1: #777b83,
+  ),
+  theme: (
+    1: #d7b24a,
+  ),
+  border: (
+    1: #e7e9ee,
+    2: #d9dde8,
+    3: #313333,
+    4: #2c2f2f,
+  ),
+);
